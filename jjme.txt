@@ -14,3 +14,7 @@ philip
 ottawa
 Toronto
 ontario
+calgary
+vancouver
+Britania
+Richmond
